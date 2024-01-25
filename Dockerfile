@@ -1,4 +1,4 @@
-from python:3.12
+from python:3.11
 
 ENV BALWGT_DEBUG=FALSE
 ENV BALWGT_DATA_PATH="/data"
