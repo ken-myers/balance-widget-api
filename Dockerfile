@@ -1,4 +1,4 @@
-from python:3.12-apline
+from python:3.12
 
 ENV BALWGT_DEBUG=FALSE
 ENV BALWGT_DATA_PATH="/data"
